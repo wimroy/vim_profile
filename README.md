@@ -4,7 +4,7 @@ To checkout:
 - git submodule update --init
 
 
-Create a softlink to vim and vim/vimrc. Be sure to backup your original file before that, though.
+Create a softlink to vim and vim/vimrc. Be sure to backup your original files before that, though.
 - cd ~
 - ln -s /path/to/vim    .vim
 - ln -s /path/to/vim/vimrc    .vimrc

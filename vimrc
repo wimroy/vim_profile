@@ -4,8 +4,6 @@ call pathogen#infect()
 call pathogen#helptags()
 
 
-
-
 set hidden
 set number
 set nowrap

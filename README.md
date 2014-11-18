@@ -4,7 +4,7 @@ To checkout:
 - git submodule update --init
 
 
-The following bundles are currently installed
+The following bundles are currently installed:
 - pathogen
 - python-mode
 - syntastic

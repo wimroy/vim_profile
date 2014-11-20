@@ -1,3 +1,6 @@
+May no longer be updated!
+See https://github.com/wimroy/config_files for more detailed config files that include tmux, bash and other configuration files and scripts.
+
 To checkout:
 - git clone https://github.com/wimroy/vim_profile.git    vim
 - cd vim
